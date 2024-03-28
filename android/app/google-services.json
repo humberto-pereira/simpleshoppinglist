@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079924685734",
+    "project_id": "fflistademercado1-7f500",
+    "storage_bucket": "fflistademercado1-7f500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079924685734:android:0c014ec6806c2f25312d67",
+        "android_client_info": {
+          "package_name": "com.colorhazestudio.semcodarshoplist01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfUb_qbGLPPu_kRwoi5vNi-3i40_I-iWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
